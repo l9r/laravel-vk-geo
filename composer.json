@@ -1,5 +1,5 @@
 {
-    "name": "bigperson/laravel-vk-geo",
+    "name": "l9r/laravel-vk-geo",
     "description": "Parse countries, regions and cities from vk.com api",
     "keywords": [
         "laravel",
@@ -29,7 +29,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Bigperson\\VkGeo\\": "src/"
+            "l9r\\VkGeo\\": "src/"
         }
     }
 }
